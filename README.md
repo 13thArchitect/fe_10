@@ -54,6 +54,8 @@
 
 ## 동작 화면
 
+![Image](https://github.com/user-attachments/assets/4bdf1d8a-89a8-4055-ac51-585ddcc65b9b)
+
 ## 브랜치 전략
 
 이 프로젝트는 **Git Flow**에 기반하여 `main`과 `develop` 브랜치를 사용해 관리합니다.
